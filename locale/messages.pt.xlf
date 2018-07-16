@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file source-language="en" datatype="plaintext" original="ng2.template">
+  <file source-language="pt" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
-        <source>Home</source>
+        <source>Início</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/header-auth/header-auth.component.ts</context>
           <context context-type="linenumber">6</context>
@@ -29,21 +29,21 @@
         </context-group>
       </trans-unit>
       <trans-unit id="994363f08f9fbfa3b3994ff7b35c6904fdff18d8" datatype="html">
-        <source>Profile</source>
+        <source>Perfil</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/header-auth/header-auth.component.ts</context>
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9fe218829514884cdd0ca2300573a4e0428c324f" datatype="html">
-        <source>Alerts</source>
+        <source>Alertas</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/header-auth/header-auth.component.ts</context>
           <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit>
       <trans-unit id="895b412950f95282a45c713c962df63cf3f7d73d" datatype="html">
-        <source>Smart Contracts. Masternodes. Oracles.</source>
+        <source>Contratos Inteligentes. Masternodes. Oracles.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
           <context context-type="linenumber">5</context>
@@ -55,8 +55,8 @@
       </trans-unit>
       <trans-unit id="2f39d78167e08af705306a8f3aa857f629fb8efd" datatype="html">
         <source>
-                    Cryptocurrency.
-                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Smarter.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+                    Criptomoedas.
+                    <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Inteligente.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
                 </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
@@ -64,14 +64,14 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7df25164c7fd0b0a5031c4a6d77eca3efe038511" datatype="html">
-        <source>Introducing Akroma</source>
+        <source>Sobre a Akroma</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4d26c7fdfbc4084096e9eb8a6fa3bef655fc0080" datatype="html">
-        <source>Akroma is a cryptocurrency and application development platform focused on creating a governance model that will reward long-term, sustainable development and design.
+        <source>A Akroma é uma plataforma de criptomoedas e desenvolvimento de aplicativos focada na criação de um modelo de governança que recompensará o desenvolvimento e design sustentável.
                 </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
@@ -79,7 +79,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="bd30f6495a0ed42fba70af3826a9bbb9d1a23426" datatype="html">
-        <source>Download the
+        <source>Baixar o
                     <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Akroma Whitepaper<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
                 </source>
         <context-group purpose="location">
@@ -110,28 +110,28 @@
         </context-group>
       </trans-unit>
       <trans-unit id="d9514821a1ea219e53383c6d5f3be0d424da1e42" datatype="html">
-        <source>Network Details</source>
+        <source>Detalhes da Rede</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit>
       <trans-unit id="acc04ca445d64958d843622f9ce95c0378198c24" datatype="html">
-        <source>Protocol</source>
+        <source>Protocolo</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6c6f25c47da62ec597c6057a36ddfc3209811ec5" datatype="html">
-        <source>Algorithm</source>
+        <source>Algoritmo</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="219457e31107e4653abc2952947c150ef7840260" datatype="html">
-        <source>Total Supply</source>
+        <source>Fornecimento Total</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">21</context>
@@ -152,14 +152,14 @@
         </context-group>
       </trans-unit>
       <trans-unit id="51e33f440afb2c6fb5c9ed39520f934c02594711" datatype="html">
-        <source>10 seconds (requires consistent difficulty)</source>
+        <source>10 segundos (requires consistent difficulty)</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">29</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8ba8fe810458280a83df7fdf4c614dfc1a826445" datatype="html">
-        <source>Block Rewards</source>
+        <source>Bloquear Recompensas</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">36</context>
@@ -173,49 +173,49 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4d6fa4fcf5fbe13512703aee15c1a40ad4ed61ff" datatype="html">
-        <source>Miners</source>
+        <source>Mineradores</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">44</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3de277f3e0e839888b6fd95e982bc67691a173af" datatype="html">
-        <source>Akroma Foundation</source>
+        <source>Fundação Akroma</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">52</context>
         </context-group>
       </trans-unit>
       <trans-unit id="b19a36814df09297b0d53d663300e4cfbd4da97a" datatype="html">
-        <source>Read more about our plans on Medium</source>
+        <source>Leia mais sobre nossos planos no Medium</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">65</context>
         </context-group>
       </trans-unit>
       <trans-unit id="fe5317c6c60dd7e0e86f04d22f566f67cf04d404" datatype="html">
-        <source>Mining Pools</source>
+        <source>Pools de Mineração</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-pools/home-pools.component.ts</context>
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="d8392cc661a190fcfcadb1a8d98878222f1c34f9" datatype="html">
-        <source>The Akroma community managed mining pools.</source>
+        <source>A comunidade Akroma gerencia pools de mineração.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-pools/home-pools.component.ts</context>
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2e10f24517b1350c911dc8ccbeca0c33e42b46b5" datatype="html">
-        <source>Contact us to have your pool added to our list.</source>
+        <source>Entre em contato conosco para que a sua pool seja adicionada na nossa lista.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-pools/home-pools.component.ts</context>
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit>
       <trans-unit id="391d0cb634ce2bd480d61061e2f2a619a0e6484e" datatype="html">
-        <source>Sustainable Governance</source>
+        <source>Governança Sustentável</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">9</context>
@@ -223,8 +223,8 @@
       </trans-unit>
       <trans-unit id="248e037eff7b0089add0a2ec544208f0ed75512c" datatype="html">
         <source>
-                  The Akroma governance model is focused on creating a sustainable application development platform while contributing back
-                  to the greater community.
+                  O modelo de governança da Akroma está focado na criação de uma plataforma de desenvolvimento de aplicativos sustentável, contribuindo
+                  para o crescimento da comunidade.
               </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
@@ -232,63 +232,63 @@
         </context-group>
       </trans-unit>
       <trans-unit id="e487068586eb543cd0cdc5e49df922daff759f53" datatype="html">
-        <source>Key Features:</source>
+        <source>Principais Características:</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit>
       <trans-unit id="76f0f93c311d3127930328eec090684dcc8b5b1e" datatype="html">
-        <source>Interoperability</source>
+        <source>Interoperabilidade</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">16</context>
         </context-group>
       </trans-unit>
       <trans-unit id="f3852f70dfbf6e6298cb1d9dc99c7a95fb36d38e" datatype="html">
-        <source>No major protocol changes</source>
+        <source>Sem alterações importantes no protocolo</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="041b65983a05c6107b03a594056f678626bd5f81" datatype="html">
-        <source>Continuous integration of upstream changes</source>
+        <source>Integração contínua de mudanças upstream</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">18</context>
         </context-group>
       </trans-unit>
       <trans-unit id="f0020dbb78e949380e5796d59405d399062247df" datatype="html">
-        <source>Focus on UX (user experience)</source>
+        <source>Focu na UX (experiência do usuário)</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ce7c76e13bea482d26b0d5bc7fd8807bb222c9b9" datatype="html">
-        <source>Consumer over Enterprise</source>
+        <source>Consumidor acima de Empresa</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1d2aa89bcb4286b11acf98c444c1479da54d255c" datatype="html">
-        <source>Decentralized Oracles</source>
+        <source>Oracles Descentralizados</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-oracles/home-oracles.component.ts</context>
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="050d1ecbe0d84f9623a4e37c65c2b8b032aff28b" datatype="html">
-        <source>Oracles are systems that provide smart contracts with data from outside the network.</source>
+        <source>Oracles são sistemas que fornecem contratos inteligentes com dados de rede externa.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-oracles/home-oracles.component.ts</context>
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit>
       <trans-unit id="68e42adbdff01e960b4c2499bc1b761ab6713cb7" datatype="html">
-        <source>Oracles are one example of the type of features that become possible with a layer of dedicated servers.</source>
+        <source>Oracles são um exemplo dos tipos de recursos que tornam possíveis uma camada de servidores dedicados.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-oracles/home-oracles.component.ts</context>
           <context context-type="linenumber">8</context>
@@ -296,8 +296,8 @@
       </trans-unit>
       <trans-unit id="cfbd9b90c3b8b63d69893cca197f5ec5ae13ca3a" datatype="html">
         <source>
-                  Masternodes help protect and scale the Akroma network by validating transactions and acting as a decentralization incentive.
-                  Running a masternode is rewarded with Akroma.
+                  Os Masternodes ajudam a proteger e dimensionar a rede Akroma, validando as transações e agindo como um incentivo à descentralização.
+                  Execute um masternode e seja recompensando com Akroma.
               </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
@@ -306,7 +306,7 @@
       </trans-unit>
       <trans-unit id="54223623e54a60d86a99ef1eecff29c7a6618bbd" datatype="html">
         <source>
-                  The masternode layer provides the foundation for additional features to be developed on the Akroma network.
+                  A camada de masternode fornece a base para recursos adicionais serem desenvolvidos na rede Akroma.
               </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
@@ -314,21 +314,21 @@
         </context-group>
       </trans-unit>
       <trans-unit id="35679b422fe527bc9952e0ecc5fc9a7623e15526" datatype="html">
-        <source>Required collateral: at least 5001 AKA</source>
+        <source>Quantidade Necessária: pelo menos 5001 AKA</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4e61695e9898bb95428898f2b02af8abccd4c15d" datatype="html">
-        <source>Rewards processed once daily</source>
+        <source>Recompensas processadas diariamente</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
           <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit>
       <trans-unit id="464e2dd48454ce55302532bf14e73bb0650480ac" datatype="html">
-        <source>Guides</source>
+        <source>Guias</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
           <context context-type="linenumber">22</context>
@@ -336,7 +336,7 @@
       </trans-unit>
       <trans-unit id="510e44e95630dd797563c330e782a37bcec08726" datatype="html">
         <source>
-                  Users
+                  Usuários
               </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
@@ -354,7 +354,7 @@
       </trans-unit>
       <trans-unit id="0c38741571a0fd58d690b8c3d04cc20a848ebc0b" datatype="html">
         <source>
-                  Allocated
+                  Alocado
               </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
@@ -363,7 +363,7 @@
       </trans-unit>
       <trans-unit id="148f5c2890b4dac11b8ae7dabc84f684c9b62aa3" datatype="html">
         <source>
-                  Rewards to date
+                  Recompensados até a agora
               </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
@@ -379,7 +379,7 @@
       </trans-unit>
       <trans-unit id="01706879d881275276ac0da5d444c802702dbdd0" datatype="html">
         <source>
-                  Akroma is listed on
+                  Akroma está listada:
               </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
@@ -387,7 +387,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="2adb70cec514cc451f2b41ecba23f23dd9d203d7" datatype="html">
-        <source>Akroma Android Wallet</source>
+        <source>Carteira Akroma para Android </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
           <context context-type="linenumber">23</context>
@@ -398,14 +398,14 @@
         </context-group>
       </trans-unit>
       <trans-unit id="737c7ef9bfbc828f7e0857269bbc44295fb06a89" datatype="html">
-        <source>Akroma Web Extension (Chrome)</source>
+        <source>Akroma Extensão Web (Chrome)</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
           <context context-type="linenumber">27</context>
         </context-group>
       </trans-unit>
       <trans-unit id="e85c3402a86bd48db85353d4c7d6389f5a4e8070" datatype="html">
-        <source>Web Wallet</source>
+        <source>Carteira Web</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-ecosystem/home-ecosystem.component.ts</context>
           <context context-type="linenumber">30</context>
@@ -439,7 +439,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="f65253954b66e929a8b4d5ecaf61f9129f8cec64" datatype="html">
-        <source>Dashboard</source>
+        <source>Painel de Controle</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-header/core-header.component.ts</context>
           <context context-type="linenumber">18</context>
@@ -454,7 +454,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="6765b4c916060f6bc42d9bb69e80377dbcb5e4e9" datatype="html">
-        <source>Login</source>
+        <source>Minha Conta</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-header/core-header.component.ts</context>
           <context context-type="linenumber">21</context>
@@ -469,7 +469,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="bb694b49d408265c91c62799c2b3a7e3151c824d" datatype="html">
-        <source>Logout</source>
+        <source>Sair</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-header/core-header.component.ts</context>
           <context context-type="linenumber">22</context>
@@ -484,21 +484,21 @@
         </context-group>
       </trans-unit>
       <trans-unit id="004b222ff9ef9dd4771b777950ca1d0e4cd4348a" datatype="html">
-        <source>About</source>
+        <source>Sobre</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="deeff9666924503a819a3c1e6518bdfc7b513762" datatype="html">
-        <source>Sponsorship</source>
+        <source>Patrocínio</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit>
       <trans-unit id="b8d10cd55fae4e4ad4f87d28e18251694f159bf7" datatype="html">
-        <source>Privacy Policy</source>
+        <source>Política de Privacidade</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">14</context>
@@ -513,7 +513,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="aa4f4b7c81ae9cabfcebc2173f31e3f4bf08d833" datatype="html">
-        <source>Terms of Service</source>
+        <source>Termos de Serviço</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">17</context>
@@ -528,7 +528,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="1b8fc97141a0083426b2e8cf42b9c2f0513b6621" datatype="html">
-        <source>Participation Agreement</source>
+        <source>Termos de Participação</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">20</context>
@@ -543,7 +543,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="ec2d3a89b366d1ca80be056e9e71f0165ae75c7b" datatype="html">
-        <source>Community</source>
+        <source>Comunidade</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">25</context>
@@ -648,7 +648,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="d2a7deb7096cada2c3177157652680fe7e6de0ed" datatype="html">
-        <source>Projects</source>
+        <source>Projetos</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">48</context>
@@ -676,35 +676,35 @@
         </context-group>
       </trans-unit>
       <trans-unit id="94e62e9f02381b3c63ca50d6874a32b20824ee74" datatype="html">
-        <source>Akroma iOS Wallet</source>
+        <source>Carteira Akroma para iOS</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">63</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9bd7e9f5b4b2d716652f59e8ccfd66691fba4941" datatype="html">
-        <source>Akroma Desktop Wallet</source>
+        <source>Carteira Akroma para Desktop</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">66</context>
         </context-group>
       </trans-unit>
       <trans-unit id="cdbb50ced977f5713a04c9ff20d9cec4fdf7830c" datatype="html">
-        <source>Akroma Web Extension</source>
+        <source>Akroma Extensão Web  </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">69</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3b050c872b480536dc558747227e312db8cbdedd" datatype="html">
-        <source>Akroma.io Portal</source>
+        <source>Portal Akroma.io </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">72</context>
         </context-group>
       </trans-unit>
       <trans-unit id="452ef1b96854fe05618303ee601f8fed3b866c9f" datatype="html">
-        <source>Resources</source>
+        <source>Recursos</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">77</context>
@@ -749,7 +749,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="0049cfecee32ff0c1a03aa6ad62403c2d9c04aec" datatype="html">
-        <source>Network Stats</source>
+        <source>Status da Rede</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">89</context>
@@ -779,7 +779,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="e0395bd7b90854acb7bd1c88cd7a9c65abd451a5" datatype="html">
-        <source>Stats &amp; Graphs</source>
+        <source>Estatísticas &amp; Gráficos</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">95</context>
@@ -803,14 +803,14 @@
         </context-group>
       </trans-unit>
       <trans-unit id="6642147ee5ae8acb8b128faedfc7985d39637911" datatype="html">
-        <source>Communities</source>
+        <source>Comunidades</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">18</context>
         </context-group>
       </trans-unit>
       <trans-unit id="f7452dba15c0c88dc4142db773d351fade98cdbe" datatype="html">
-        <source>User Groups</source>
+        <source>Grupos de Usuários</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">22</context>
@@ -831,35 +831,35 @@
         </context-group>
       </trans-unit>
       <trans-unit id="2cdecf6fa0ede6d9b44c7045f2578e5d660f99c7" datatype="html">
-        <source>Akroma offers a complete sponsorship program that can be tailored to fit your community, open source project, event or hackathons needs. Any combination of the following are available:</source>
+        <source>A Akroma oferece um programa de patrocínio completo que pode ser adaptado para atender às necessidades de sua comunidade, projetos open source, evento ou hackathons. Qualquer combinação dos seguintes itens está disponível:</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">39</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3d69960990d22e06f5d19a05104f95d56241ad90" datatype="html">
-        <source>AKA to be used as you see fit.</source>
+        <source>AKA para ser usado como achar melhor.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="b7fc70828514eb159a7c6e2286ca96662c45f5ef" datatype="html">
-        <source>Social marketing support.</source>
+        <source>Suporte de marketing social.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">42</context>
         </context-group>
       </trans-unit>
       <trans-unit id="27ff4c4bb8c7886d20c6b119b381006279ab43ad" datatype="html">
-        <source>Listing your community, open source project, event or hackathon on akroma.io.</source>
+        <source>Listando sua comunidade, projeto open source, evento ou hackathon na akroma.io.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="c65da9ec1279eada4d88da185d6e7c6690c42e0c" datatype="html">
-        <source>Badges and flair that can be used in your promotional materials.</source>
+        <source>Badges e estilos que podem ser usados em seus materiais promocionais.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">44</context>
@@ -867,7 +867,7 @@
       </trans-unit>
       <trans-unit id="7c7f6f312f8a9538660b3cf2dedbd4907d471515" datatype="html">
         <source>
-                    Contact
+                    Contato
                     <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>sponsorship@akroma.io<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to learn more.
                 </source>
         <context-group purpose="location">
@@ -877,7 +877,7 @@
       </trans-unit>
       <trans-unit id="dcf4d74b15c19ca0496f70ba7509800508f0c009" datatype="html">
         <source>
-          AKA Price
+          Preço por AKA 
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
@@ -886,7 +886,7 @@
       </trans-unit>
       <trans-unit id="3064e472253c0db9e9053e4d4cdcc67ec57aae0d" datatype="html">
         <source>
-          Average Hashrate
+          Hashrate médio
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
@@ -895,7 +895,7 @@
       </trans-unit>
       <trans-unit id="fb55057b9d7929641ac28cbe630140fb840f6837" datatype="html">
         <source>
-          Difficulty
+          Dificuldade
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
@@ -903,14 +903,14 @@
         </context-group>
       </trans-unit>
       <trans-unit id="8a7b4bd44c0ac71b2e72de0398b303257f7d2f54" datatype="html">
-        <source>Blocks</source>
+        <source>Bloco</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
           <context context-type="linenumber">46</context>
         </context-group>
       </trans-unit>
       <trans-unit id="add4cd82e3e38a3110fe67b3c7df56e9602644ee" datatype="html">
-        <source>Transactions</source>
+        <source>Transações</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/explorer-home/explorer-home.component.ts</context>
           <context context-type="linenumber">49</context>
@@ -918,7 +918,7 @@
       </trans-unit>
       <trans-unit id="4ef413d88568c60c1b7bd9e7329713ee0c657ff0" datatype="html">
         <source>
-            Block
+            Bloco
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
@@ -944,7 +944,7 @@
       </trans-unit>
       <trans-unit id="40d1eb4d20a5bcb43910df7e61f90c73ac406477" datatype="html">
         <source>
-            Time
+            Tempo
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
@@ -975,7 +975,7 @@
       </trans-unit>
       <trans-unit id="8c1f43572add0eb6e4149d4e3a3c74e21425a86e" datatype="html">
         <source>
-            Mined By
+            Minerado Por
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
@@ -984,7 +984,7 @@
       </trans-unit>
       <trans-unit id="cb1a99a9c5faf1af11aeb2387cf6df14b3f70254" datatype="html">
         <source>
-            Difficulty
+            Dificuldade
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
@@ -993,7 +993,7 @@
       </trans-unit>
       <trans-unit id="0408ac24ca4f10ba1b90ba2ec8bed8c22405c473" datatype="html">
         <source>
-            Total Difficulty
+            Dificuldade Total
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
@@ -1002,7 +1002,7 @@
       </trans-unit>
       <trans-unit id="732ad84dc81c47dee16c49a4a09578fa13173fba" datatype="html">
         <source>
-            Gas Limit
+            Gás Limite
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
@@ -1011,7 +1011,7 @@
       </trans-unit>
       <trans-unit id="9ab0ceb44df8cd4cbf6d0e46d341ae53f0095367" datatype="html">
         <source>
-            Gas Used
+            Gás Usado
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
@@ -1033,7 +1033,7 @@
       </trans-unit>
       <trans-unit id="04c1717bbd7790dcef325d70d4b2b88f6b3fe343" datatype="html">
         <source>
-            Extra Data
+            Dados extras
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/block-details/block-details.component.ts</context>
@@ -1042,7 +1042,7 @@
       </trans-unit>
       <trans-unit id="0d3fcb19541aa897e284aef56cada0ba7c26014a" datatype="html">
         <source>
-            From
+            De
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
@@ -1051,7 +1051,7 @@
       </trans-unit>
       <trans-unit id="5b5ac3a66f2ccb3bf77f36d11259df81181eec1c" datatype="html">
         <source>
-            To
+            Para
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
@@ -1060,7 +1060,7 @@
       </trans-unit>
       <trans-unit id="97064738319320dc71781c9e4baaead817b61cb7" datatype="html">
         <source>
-            Confirmations
+            Confirmações
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
@@ -1069,7 +1069,7 @@
       </trans-unit>
       <trans-unit id="3b4854b5c5024f29e015b635c09be721a7e3de66" datatype="html">
         <source>
-            Value
+            Valor
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
@@ -1087,7 +1087,7 @@
       </trans-unit>
       <trans-unit id="555451dedb1830cd59934d2cabb9b2eab46f2f90" datatype="html">
         <source>
-            Gas Provided
+            Gás Fornecido
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
@@ -1096,7 +1096,7 @@
       </trans-unit>
       <trans-unit id="a7e9ab7884e39c21b2df2259111bc2c5fca33943" datatype="html">
         <source>
-            Gas Price
+            Preço do Gás
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
@@ -1105,7 +1105,7 @@
       </trans-unit>
       <trans-unit id="554a52f756c245e5268776bad332265495d49d02" datatype="html">
         <source>
-            Input Data
+            Dados de entrada
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/transaction-details/transaction-details.component.ts</context>
@@ -1114,7 +1114,7 @@
       </trans-unit>
       <trans-unit id="16a789df41ac1ee451d41ad2b55f12dd51f45b08" datatype="html">
         <source>
-            Akroma Balance
+            Balanço Akroma
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
@@ -1123,7 +1123,7 @@
       </trans-unit>
       <trans-unit id="022a3f01f95da927451d7f57e850524c830b5659" datatype="html">
         <source>
-            Blocks Mined
+            Blocos Minerados
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
@@ -1132,7 +1132,7 @@
       </trans-unit>
       <trans-unit id="cb5c62b2bc69cc954ed9e114d9445b9cf08e89ea" datatype="html">
         <source>
-            Transactions
+            Transações
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
@@ -1141,7 +1141,7 @@
       </trans-unit>
       <trans-unit id="207e94fe95ede8db21f5045547f1335f51d09483" datatype="html">
         <source>
-          Transactions
+          Transações
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
@@ -1149,21 +1149,21 @@
         </context-group>
       </trans-unit>
       <trans-unit id="cdb6e6207a6e6baf59b30276625c32c1c61ae918" datatype="html">
-        <source>TO</source>
+        <source>PARA</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
           <context context-type="linenumber">75</context>
         </context-group>
       </trans-unit>
       <trans-unit id="d7113ecd4c9545c6f886131bf0ffa8c39ba8abda" datatype="html">
-        <source>FROM</source>
+        <source>DE</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/pages/address-details/address-details.component.ts</context>
           <context context-type="linenumber">83</context>
         </context-group>
       </trans-unit>
       <trans-unit id="c43dc1967a603fefb886149ac35863a06d5b4ce5" datatype="html">
-        <source>Information</source>
+        <source>Informação</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/explorer/components/explorer-footer/explorer-footer.component.ts</context>
           <context context-type="linenumber">5</context>
@@ -1175,7 +1175,7 @@
       </trans-unit>
       <trans-unit id="1d148287bc54865ea8ebd09ff8ed11d947679b16" datatype="html">
         <source>
-                    Locked
+                    Bloqueado
                 </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/overview/overview.component.ts</context>
@@ -1184,7 +1184,7 @@
       </trans-unit>
       <trans-unit id="85f00fe21ce4037920226b3ed74be135d32a1212" datatype="html">
         <source>
-                    Total Rewarded
+                    Total Recompensado
                 </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/overview/overview.component.ts</context>
@@ -1193,7 +1193,7 @@
       </trans-unit>
       <trans-unit id="a54e9a4bd5710e966dd0fca3a7bc331990a5294c" datatype="html">
         <source>
-                    Active Nodes
+                    Nodes Ativos
                 </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/overview/overview.component.ts</context>
@@ -1202,7 +1202,7 @@
       </trans-unit>
       <trans-unit id="a6cc1e76005d7c9854b6b76a0847dc9627404fa2" datatype="html">
         <source>
-                    Total Users
+                    Total de Usuários
                 </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/overview/overview.component.ts</context>
@@ -1275,7 +1275,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="1c1d901ce2f965a7817438cc6b0efb70ba6afbd3" datatype="html">
-        <source>Wallet Address</source>
+        <source>Endereço da Carteira</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/pages/masternodes-create/masternodes-create.component.ts</context>
           <context context-type="linenumber">44</context>
@@ -1435,7 +1435,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4f8b2bb476981727ab34ed40fde1218361f92c45" datatype="html">
-        <source>Details</source>
+        <source>Detalhes</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dashboard/components/masternode-detail-table/masternode-detail-table.component.ts</context>
           <context context-type="linenumber">25</context>
