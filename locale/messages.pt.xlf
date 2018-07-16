@@ -80,7 +80,7 @@
       </trans-unit>
       <trans-unit id="bd30f6495a0ed42fba70af3826a9bbb9d1a23426" datatype="html">
         <source>Baixar o
-                    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Akroma Whitepaper<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+                    <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Whitepaper Akroma <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
                 </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/home/home.component.ts</context>
@@ -88,7 +88,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="cca4e52bb9f72ec679c174bddf7095c578cae4ce" datatype="html">
-        <source>Cryptocurrency.<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Smarter.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
+        <source>Criptomoeda.<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Smarter.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/>
                 </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/graphs/graphs.component.ts</context>
@@ -96,14 +96,14 @@
         </context-group>
       </trans-unit>
       <trans-unit id="5f290fa920302fbf0a5b9dff602811cf8ea46079" datatype="html">
-        <source>Core Team</source>
+        <source>Equipe Principal</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-team/home-team.component.ts</context>
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3215592ca589ee37f77889df5b67e928e6af09ea" datatype="html">
-        <source>Community Moderators</source>
+        <source>Moderadores da comunidade</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-team/home-team.component.ts</context>
           <context context-type="linenumber">179</context>
@@ -138,21 +138,21 @@
         </context-group>
       </trans-unit>
       <trans-unit id="2136a6dec991ab699f36505aaf745dc026ef9f22" datatype="html">
-        <source>100 million</source>
+        <source>100 milhões</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">24</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ed9d5099aa210dd81057f1f8da4337b87de761ee" datatype="html">
-        <source>Target Block Time</source>
+        <source>Tempo do Bloco</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit>
       <trans-unit id="51e33f440afb2c6fb5c9ed39520f934c02594711" datatype="html">
-        <source>10 segundos (requires consistent difficulty)</source>
+        <source>10 segundos (requer dificuldade consistente)</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-network/home-network.component.ts</context>
           <context context-type="linenumber">29</context>
@@ -260,14 +260,14 @@
         </context-group>
       </trans-unit>
       <trans-unit id="f0020dbb78e949380e5796d59405d399062247df" datatype="html">
-        <source>Focu na UX (experiência do usuário)</source>
+        <source>Foco na UX (experiência do usuário)</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ce7c76e13bea482d26b0d5bc7fd8807bb222c9b9" datatype="html">
-        <source>Consumidor acima de Empresa</source>
+        <source>Consumidor acima de Empresas</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-governance/home-governance.component.ts</context>
           <context context-type="linenumber">20</context>
@@ -281,7 +281,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="050d1ecbe0d84f9623a4e37c65c2b8b032aff28b" datatype="html">
-        <source>Oracles são sistemas que fornecem contratos inteligentes com dados de rede externa.</source>
+        <source>Oracles são sistemas que fornecem contratos inteligentes com dados de redes externas.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-oracles/home-oracles.component.ts</context>
           <context context-type="linenumber">7</context>
@@ -297,7 +297,7 @@
       <trans-unit id="cfbd9b90c3b8b63d69893cca197f5ec5ae13ca3a" datatype="html">
         <source>
                   Os Masternodes ajudam a proteger e dimensionar a rede Akroma, validando as transações e agindo como um incentivo à descentralização.
-                  Execute um masternode e seja recompensando com Akroma.
+                  Execute um masternode e seja recompensando pela Akroma.
               </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/home-masternodes/home-masternodes.component.ts</context>
@@ -424,7 +424,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="f363d733f471c7040b6a92a49bc10b29e1bad411" datatype="html">
-        <source>Explorer</source>
+        <source>Explorador</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-header/core-header.component.ts</context>
           <context context-type="linenumber">15</context>
@@ -655,7 +655,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="6677fdf34c4ece3e78804f1eafd667c878dd7287" datatype="html">
-        <source>Akroma Network</source>
+        <source>Rede Akroma</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">51</context>
@@ -690,7 +690,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="cdbb50ced977f5713a04c9ff20d9cec4fdf7830c" datatype="html">
-        <source>Akroma Extensão Web  </source>
+        <source>Akroma Extensão Web </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">69</context>
@@ -734,7 +734,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="cc27e3d366df4ee8e488ddbe584735457bda67c3" datatype="html">
-        <source>Block Explorer</source>
+        <source>Explorador de Blocos</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/components/core-footer/core-footer.component.ts</context>
           <context context-type="linenumber">86</context>
@@ -838,7 +838,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="3d69960990d22e06f5d19a05104f95d56241ad90" datatype="html">
-        <source>AKA para ser usado como achar melhor.</source>
+        <source>AKA pode ser usado como achar melhor.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/core/pages/sponsorship/sponsorship.component.ts</context>
           <context context-type="linenumber">41</context>
